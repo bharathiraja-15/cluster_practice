@@ -192,21 +192,6 @@ You must submit a document like this:
 
 
 
-Just tell me.
-Got it 👍 You need a **proper document explaining what you implemented** in this assignment so you can **send it to your mentor**.
-I’ll give you a **clean DevOps project report format** you can copy into **Word / PDF**.
-
-Also a small correction (as you asked me to correct your English):
-
-Your sentence:
-
-> "what did i from eventing i need to tak ethe document i have to sentd the documertn to my mentory"
-
-Better sentence:
-
-> **"I need a document explaining what I implemented so I can send it to my mentor."**
-
----
 
 # EKS + KEDA + Observability Implementation Report
 
