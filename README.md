@@ -1,16 +1,3 @@
-# cluster_practice
-Your sentence has a small grammar mistake.
-**Correct sentence:**
-👉 *“Create a cluster and deploy KEDA in it. Share the document describing the procedure you followed. Configure observability for that cluster.”*
-
-Now let me explain **what the task means** clearly.
-
----
-
-# What This Task Means (Step-by-Step)
-
-This looks like a **DevOps assignment or interview task**.
-They want you to do **3 main things**:
 
 1️⃣ Create a **Kubernetes Cluster** in **AWS or GCP**
 2️⃣ Deploy **KEDA (Kubernetes Event Driven Autoscaler)**
